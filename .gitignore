@@ -21,3 +21,11 @@ Thumbs.db
 # Optional: local env files
 .env
 .env.*
+
+# CrewAI cache
+.crewai_cache/
+
+.kilo/
+**/chroma_db/
+**/lora_adapter/
+**/lora_output/
